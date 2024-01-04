@@ -1,7 +1,8 @@
 repo_name: codymihai/odbc-heroku
 report_id: '06586b9eefdfe2750bb7850d0ba89857'
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T10:56:17+00:00'
+timestamp: '2024-01-04T14:52:39+00:00'
 requested_by: codymihai
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/codymihai/odbc-heroku
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -25,4 +27,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/codymihai/odbc-heroku
   detection_source: Repo Metadata
