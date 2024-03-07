@@ -6,7 +6,7 @@ export ODBCSYSINI=${HOME}/.apt/usr/lib/odbc/conf/
 mkdir -p /etc
 
 echo "[QuickBaseViaQuNect]
-Driver=QuickBase via QuNect user
+Driver=QuickBase
 Description=QuickBase via QuNect user
 uid=${QUICKBASE_USERNAME}
 pwd=${QUICKBASE_PASSWORD}
